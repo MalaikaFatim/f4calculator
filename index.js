@@ -26,3 +26,4 @@ else if (answer.operator === 'Division') {
 else {
     console.log('pelease seleact valid answer');
 }
+    console.log("The end")
